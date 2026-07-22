@@ -46,7 +46,6 @@ I am a 17-year-old developer and tech enthusiast currently bridging the gap betw
 
 <p align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sundaramvdubey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sundaramvdubey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" width="48%">
 </p>
 
 ---
