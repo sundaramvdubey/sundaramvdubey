@@ -8,17 +8,17 @@
 
 ---
 
-### 🕵️‍♂️ About Me
+###  About Me
 
 I am a 17-year-old developer and tech enthusiast currently bridging the gap between academic research and real-world engineering. My journey involves exploring the hidden patterns in data by day and getting lost in fictional worlds by night.
 
-- 🎓 **Institutional Focus:** Applied AI & Data Science at **IIT Jodhpur** | AI-driven Analytics at **IIT Mandi**.
+-  **Institutional Focus:** Applied AI & Data Science at **IIT Jodhpur** | AI-driven Analytics at **IIT Mandi**.
 
-- 🛠️ **Developer Identity:** A multidisciplinary architect focusing on AI Strategy, General Software Engineering, and UI/UX.
+-  **Developer Identity:** A multidisciplinary architect focusing on AI Strategy, General Software Engineering, and UI/UX.
 
-- 🔍 **Interests:** Deeply curious about **OSINT** (Open Source Intelligence ) and the art of investigative data.
+-  **Interests:** Deeply curious about **OSINT** (Open Source Intelligence ) and the art of investigative data.
 
-- 🎨 **Creative Side:** I am an artist at heart and a dedicated reader of fictional novels.
+-  **Creative Side:** I am an artist at heart and a dedicated reader of fictional novels.
 
 ---
 
@@ -34,19 +34,19 @@ I am a 17-year-old developer and tech enthusiast currently bridging the gap betw
 
 #### **Currently Exploring**
 
-- 🛠️ **UI/UX Design** (IBM Skills )
+-  **UI/UX Design** (IBM Skills )
 
-- 🌐 **Greek & Mandarin** (Language Acquisition)
+-  **Greek & Mandarin** (Language Acquisition)
 
-- 🕵️ **OSINT Frameworks** (Investigative Research)
+-  **OSINT Frameworks** (Investigative Research)
 
 ---
 
 ### 📈 Vital Signs
 
 <p align="center">
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=sundaramvdubey&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=sundaramvdubey&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" width="48%">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sundaramvdubey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sundaramvdubey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" width="48%">
 </p>
 
 ---
@@ -56,10 +56,6 @@ I am a 17-year-old developer and tech enthusiast currently bridging the gap betw
 #### [Finsight](https://github.com/sundaramvdubey/Finsight)
 
 > **The UPI Growth Story:** A deep dive into fintech strategy using SQL and data modeling to derive decision-ready financial insights.
-
-#### [Python-Basics-IIT-Mandi](https://github.com/sundaramvdubey/Python-basics-IIT-Mandi)
-
-> **The Sacred Scrolls:** A curated collection of Python fundamentals gathered under academic rigor.
 
 ---
 
@@ -85,6 +81,3 @@ I am a 17-year-old developer and tech enthusiast currently bridging the gap betw
 
 ---
 
-<p align="center">
-<i>"Building the future, one commit at a time."</i>
-</p>
