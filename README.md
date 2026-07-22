@@ -10,7 +10,7 @@
 
 ###  About Me
 
-I am a 17-year-old developer and tech enthusiast currently bridging the gap between academic research and real-world engineering. My journey involves exploring the hidden patterns in data by day and getting lost in fictional worlds by night.
+I am a 17-year-old developer and tech enthusiast currently bridging the gap between academic research and real-world engineering. 
 
 -  **Institutional Focus:** Applied AI & Data Science at **IIT Jodhpur** | AI-driven Analytics at **IIT Mandi**.
 
