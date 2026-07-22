@@ -90,17 +90,12 @@ Currently Exploring
 
 
 
- Featured Expeditions
 
 Finsight
 
 
 The UPI Growth Story: A deep dive into fintech strategy using SQL and data modeling to derive decision-ready financial insights.
 
-Python-Basics-IIT-Mandi
-
-
-The Sacred Scrolls: A curated collection of Python fundamentals gathered under academic rigor.
 
 
 
@@ -137,8 +132,6 @@ Mandarin
 
 
 
-<p align="center">
-<i>"Building the future, one commit at a time."</i>
-</p>
+
 
 
