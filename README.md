@@ -22,7 +22,7 @@ I am a 17-year-old developer and tech enthusiast currently bridging the gap betw
 
 ---
 
-### 🚀 The Tech Vault
+###  The Tech Vault
 
 #### **Core Engineering & Data**
 
@@ -42,7 +42,7 @@ I am a 17-year-old developer and tech enthusiast currently bridging the gap betw
 
 ---
 
-### 📈 Vital Signs
+###  Stats 
 
 <p align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sundaramvdubey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" width="48%">
@@ -51,7 +51,7 @@ I am a 17-year-old developer and tech enthusiast currently bridging the gap betw
 
 ---
 
-### 📂 Featured Expeditions
+###  Featured Expeditions
 
 #### [Finsight](https://github.com/sundaramvdubey/Finsight)
 
