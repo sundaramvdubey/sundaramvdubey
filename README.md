@@ -1,24 +1,22 @@
-# <p align="center">Welcome to my Digital Workspace</p>
+# <p align="center">Welcome to my Workspace</p>
 
 <p align="center">
 <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663843245424/LlLfvCMHYFVjBukU.png" alt="Sundaram Dubey Hero Banner" width="100%">
 </p> <p align="center">
-  <strong>Engineering intelligent systems at the intersection of data, code, and human-centric design.</strong>
+  <strong>Engineering systems at the intersection of data, code, and human-centric design.</strong>
 </p>
 
 ---
 
 ###  About Me
 
-I am a 17-year-old developer and tech enthusiast currently bridging the gap between academic research and real-world engineering. 
+I am a 17-year-old developer and tech enthusiast. 
 
--  **Institutional Focus:** Applied AI & Data Science at **IIT Jodhpur** | AI-driven Analytics at **IIT Mandi**.
-
--  **Developer Identity:** A multidisciplinary architect focusing on AI Strategy, General Software Engineering, and UI/UX.
+-  **Institutional Focus: **IIT Madras** Bs Aeronautics and Space technology | Data Analytics and programming driven by AI at **IIT Mandi**.
 
 -  **Interests:** Deeply curious about **OSINT** (Open Source Intelligence ) and the art of investigative data.
 
--  **Creative Side:** I am an artist at heart and a dedicated reader of fictional novels.
+-  **Creative Side:** I am an artist at heart and reader of fictional novels.
 
 ---
 
@@ -26,15 +24,13 @@ I am a 17-year-old developer and tech enthusiast currently bridging the gap betw
 
 #### **Core Engineering & Data**
 
-<img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
 
-#### **Web & Design**
+#### **Web**
 
-<img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/UI/UX-000000?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX">
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React">
 
 #### **Currently Exploring**
-
--  **UI/UX Design** (IBM Skills )
 
 -  **Greek & Mandarin** (Language Acquisition)
 
