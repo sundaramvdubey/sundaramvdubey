@@ -1,16 +1,9 @@
-# <p align="center">Welcome to my Workspace</p>
-
-<p align="center">
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663843245424/LlLfvCMHYFVjBukU.png" alt="Sundaram Dubey Hero Banner" width="100%">
-</p> <p align="center">
-  <strong>Engineering systems at the intersection of data, code, and human-centric design.</strong>
-</p>
 
 ---
 
 ###  About Me
 
-I am a 17-year-old developer and tech enthusiast. 
+I am 17, and a tech enthusiast. 
 
 -  **Institutional Focus: **IIT Madras** Bs Aeronautics and Space technology | Data Analytics and programming driven by AI at **IIT Mandi**.
 
@@ -24,7 +17,7 @@ I am a 17-year-old developer and tech enthusiast.
 
 #### **Core Engineering & Data**
 
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"> 
 
 #### **Web**
 
@@ -34,7 +27,7 @@ I am a 17-year-old developer and tech enthusiast.
 
 -  **Greek & Mandarin** (Language Acquisition)
 
--  **OSINT Frameworks** (Investigative Research)
+-  **OSINT** (Investigative Research)
 
 ---
 
