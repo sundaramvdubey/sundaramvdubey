@@ -12,7 +12,7 @@
 │  FLIGHT PLAN // SUNDARAM V. DUBEY                                            │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  VECTOR  :  Aeronautics & Space Technology + Computer Science                │
-│  ALTITUDE:  IIT Madras                                                       │
+│  ALTITUDE:  IIT Madras & MGKVP                                                     │
 │  RADAR   :  AI-driven programming, data analytics, and technical learning    │
 │  STATUS  :  Building systems. Studying models. Following the signal.         │
 └──────────────────────────────────────────────────────────────────────────────┘
@@ -20,7 +20,7 @@
 
 ## `01` // About the Engineer
 
-I am a **17-year-old technology enthusiast** working at the intersection of **aeronautics, space technology, programming, and data**. My academic path combines a **B.S. in Aeronautics and Space Technology at IIT Madras** with AI-driven data analytics and programming through **IIT Mandi**.
+I am, **17, a technology enthusiast** working with **aeronautics, space technology, programming, and data**. My academic path combines a **B.S. in Aeronautics and Space Technology at IIT Madras** with Bsc in Computer science from **MGKVP**, completed a AI-driven data analytics and programming through **IIT Mandi**'s Himshikhar program.
 
 I enjoy turning technical curiosity into structured experiments: writing software, exploring datasets, building visual explanations, and learning how complex systems behave. Outside the lab, I am an artist at heart and a reader of fictional worlds.
 
@@ -31,8 +31,8 @@ I enjoy turning technical curiosity into structured experiments: writing softwar
 | Area | Current direction |
 | --- | --- |
 | **Aeronautics & Space** | Developing a stronger foundation in flight, space technology, and engineering systems. |
-| **Computer Science** | Practising algorithmic thinking, systems-oriented programming, and clean technical implementation. |
-| **Data & AI** | Using Python-based analysis and visualisation to turn raw data into useful insight. |
+| **Computer Science** | Practicing algorithmic thinking, systems-oriented programming, and clean technical implementation. |
+| **Data & AI** | Using Python-based analysis and visualization to turn raw data into useful insight. |
 | **Project Work** | Building focused experiments that connect code, models, and real-world questions. |
 
 ## `03` // The Technical Stack
@@ -53,25 +53,18 @@ My preferred workflow is deliberately compact: **C and C++** for fundamentals an
 
 ### [Finsight](https://github.com/sundaramvdubey/Finsight)
 
-> **The UPI Growth Story** — a data-driven exploration of fintech strategy, SQL, and financial modelling designed to turn a large-scale payments question into decision-ready insight.
+> **The UPI Growth Story** : a data-driven exploration of fintech strategy, SQL, and financial modelling designed to turn a large-scale payments question into decision-ready insight.
 
 ## `05` // Development Log
 
 ```
 [■■■■■■■■■■■■■■■■■■■■]  AERONAUTICS & SPACE TECHNOLOGY
 [■■■■■■■■■■■■■■■□□□]  COMPUTER SCIENCE FOUNDATIONS
-[■■■■■■■■■■■■■■□□□]  DATA ANALYTICS & VISUALISATION
+[■■■■■■■■■■■■■■□□□]  DATA ANALYTICS & VISUALIZATION
 [■■■■■■■■■■■■■□□□□□]  SYSTEMS-ORIENTED BUILDING
 ```
 
-I am currently focused on strengthening the fundamentals behind reliable technical work: clear reasoning, reproducible analysis, readable code, and projects that connect theory to measurable output.
+I am currently focused on strengthening the fundamentals behind reliable technical work.
 
-## `06` // Communication Channels
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sundaramvdubey">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
 </p> <p align="center">
-  <sub>BLUEPRINT STATUS: IN PROGRESS // NEXT MANEUVER: KEEP BUILDING</sub>
 </p>
