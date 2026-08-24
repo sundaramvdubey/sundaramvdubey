@@ -12,7 +12,7 @@
 │  FLIGHT PLAN // SUNDARAM V. DUBEY                                            │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  VECTOR  :  Aeronautics & Space Technology + Computer Science                │
-│  ALTITUDE:  IIT Madras & MGKVP                                                     │
+│  ALTITUDE:  IIT Madras & MGKVP                                               │
 │  RADAR   :  AI-driven programming, data analytics, and technical learning    │
 │  STATUS  :  Building systems. Studying models. Following the signal.         │
 └──────────────────────────────────────────────────────────────────────────────┘
