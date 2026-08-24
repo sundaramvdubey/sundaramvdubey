@@ -4,7 +4,7 @@
   <strong>ENGINEERING THE INTERSECTION OF FLIGHT, CODE, AND DATA.</strong>
 </p> <p align="center">
   <a href="https://github.com/sundaramvdubey"><img src="https://img.shields.io/badge/GitHub-sundaramvdubey-0b1f33?style=for-the-badge&logo=github&logoColor=d7f3ff" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/sundaramvdubey"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1f33?style=for-the-badge&logo=linkedin&logoColor=d7f3ff" alt="LinkedIn profile" /></a>
+  <a href="https://www.linkedin.com/in/sundaramvdubey">
 </p>
 
 ```
