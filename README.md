@@ -41,10 +41,6 @@ I enjoy turning technical curiosity into structured experiments: writing softwar
 <img src="https://img.shields.io/badge/C-0b1f33?style=for-the-badge&logo=c&logoColor=d7f3ff" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-0b1f33?style=for-the-badge&logo=cplusplus&logoColor=d7f3ff" alt="C++" />
   <img src="https://img.shields.io/badge/Python-0b1f33?style=for-the-badge&logo=python&logoColor=d7f3ff" alt="Python" />
-  <img src="https://img.shields.io/badge/NumPy-0b1f33?style=for-the-badge&logo=numpy&logoColor=d7f3ff" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-0b1f33?style=for-the-badge&logo=pandas&logoColor=d7f3ff" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-0b1f33?style=for-the-badge&logo=plotly&logoColor=d7f3ff" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Supabase-0b1f33?style=for-the-badge&logo=supabase&logoColor=d7f3ff" alt="Supabase" />
 </p>
 
 My preferred workflow is deliberately compact: **C and C++** for fundamentals and performance-oriented thinking; **Python** for analysis and experimentation; **NumPy, Pandas, and Matplotlib** for scientific data work; and **Supabase** for practical application backends and structured storage.
