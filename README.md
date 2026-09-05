@@ -26,16 +26,8 @@ I enjoy turning technical curiosity into structured experiments: writing softwar
 
 > **Operating principle:** Build with precision. Learn continuously. Keep the system observable.
 
-## `02` // Mission Control
 
-| Area | Current direction |
-| --- | --- |
-| **Aeronautics & Space** | Developing a stronger foundation in flight, space technology, and engineering systems. |
-| **Computer Science** | Practicing algorithmic thinking, systems-oriented programming, and clean technical implementation. |
-| **Data & AI** | Using Python-based analysis and visualization to turn raw data into useful insight. |
-| **Project Work** | Building focused experiments that connect code, models, and real-world questions. |
-
-## `03` // The Technical Stack
+## `02` // The Technical Stack
 
 <p align="left">
 <img src="https://img.shields.io/badge/C-0b1f33?style=for-the-badge&logo=c&logoColor=d7f3ff" alt="C" />
@@ -45,13 +37,13 @@ I enjoy turning technical curiosity into structured experiments: writing softwar
 
 My preferred workflow is deliberately compact: **C and C++** for fundamentals and performance-oriented thinking; **Python** for analysis and experimentation; **NumPy, Pandas, and Matplotlib** for scientific data work; and **Supabase** for practical application backends and structured storage.
 
-## `04` // Featured Expedition
+## `03` // Featured Expedition
 
 ### [Finsight](https://github.com/sundaramvdubey/Finsight)
 
 > **The UPI Growth Story** : a data-driven exploration of fintech strategy, SQL, and financial modelling designed to turn a large-scale payments question into decision-ready insight.
 
-## `05` // Development Log
+## `04` // Development Log
 
 ```
 [■■■■■■■■■■■■■■■■■■■■]  AERONAUTICS & SPACE TECHNOLOGY
