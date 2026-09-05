@@ -29,10 +29,18 @@ I enjoy turning technical curiosity into structured experiments: writing softwar
 
 ## `02` // The Technical Stack
 
+
+`02.01` // Core Competencies
+
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-0b1f33?style=for-the-badge&logo=cplusplus&logoColor=d7f3ff" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-0b1f33?style=for-the-badge&logo=python&logoColor=d7f3ff" alt="Python" />
-  
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,postgres" height="32" alt="C, C++, Python, PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scipy,matplotlib,plotly" height="32" alt="NumPy, Pandas, SciPy, Matplotlib, Plotly"/>
+</p>
+
+`02.02` // Expanding Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,pytorch,git,linux,docker,githubactions" height="32" alt="Rust, PyTorch, Git, Linux, Docker, GitHub Actions"/>
 </p>
 
 My preferred workflow is deliberately compact: **C and C++** for fundamentals and performance-oriented thinking; **Python** for analysis and experimentation; **NumPy, Pandas, and Matplotlib** for scientific data work; and **Supabase** for practical application backends and structured storage.
