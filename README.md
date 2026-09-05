@@ -30,9 +30,9 @@ I enjoy turning technical curiosity into structured experiments: writing softwar
 ## `02` // The Technical Stack
 
 <p align="left">
-<img src="https://img.shields.io/badge/C-0b1f33?style=for-the-badge&logo=c&logoColor=d7f3ff" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-0b1f33?style=for-the-badge&logo=cplusplus&logoColor=d7f3ff" alt="C++" />
   <img src="https://img.shields.io/badge/Python-0b1f33?style=for-the-badge&logo=python&logoColor=d7f3ff" alt="Python" />
+  
 </p>
 
 My preferred workflow is deliberately compact: **C and C++** for fundamentals and performance-oriented thinking; **Python** for analysis and experimentation; **NumPy, Pandas, and Matplotlib** for scientific data work; and **Supabase** for practical application backends and structured storage.
