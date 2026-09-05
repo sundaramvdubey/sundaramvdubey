@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/aero-cs-blueprint.png" alt="Aeronautics and Computer Science blueprint banner" width="100%" />
+<img src="./assets/profile-banner.png" alt="Personal profile banner" width="100%" />
 </p> <p align="center">
   <strong>ENGINEERING THE INTERSECTION OF FLIGHT, CODE, AND DATA.</strong>
 </p> <p align="center">
