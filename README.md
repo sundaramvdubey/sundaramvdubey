@@ -20,7 +20,7 @@
 
 ## `01` // About the Engineer
 
-I am, **17, a technology enthusiast** working with **aeronautics, space technology, programming, and data**. My academic path combines a **B.S. in Aeronautics and Space Technology at IIT Madras** with Bsc in Computer science from **MGKVP**, completed a AI-driven data analytics and programming through **IIT Mandi**'s Himshikhar program.
+I am, **18, a technology enthusiast** working with **aeronautics, space technology, programming, and data**. My academic path combines a **B.S. in Aeronautics and Space Technology at IIT Madras** with Bsc in Computer science from **MGKVP**, completed a AI-driven data analytics and programming through **IIT Mandi**'s Himshikhar program.
 
 I enjoy turning technical curiosity into structured experiments: writing software, exploring datasets, building visual explanations, and learning how complex systems behave. Outside the lab, I am an artist at heart and a reader of fictional worlds.
 
