@@ -18,7 +18,7 @@
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-## `01` // About the Engineer
+## `01` // About me
 
 I am, **18, a technology enthusiast** working with **aeronautics, space technology, programming, and data**. My academic path combines a **B.S. in Aeronautics and Space Technology at IIT Madras** with Bsc in Computer science from **MGKVP**, completed a AI-driven data analytics and programming through **IIT Mandi**'s Himshikhar program.
 
