@@ -51,16 +51,3 @@ My preferred workflow is deliberately compact: **C and C++** for fundamentals an
 
 > **The UPI Growth Story** : a data-driven exploration of fintech strategy, SQL, and financial modelling designed to turn a large-scale payments question into decision-ready insight.
 
-## `04` // Development Log
-
-```
-[■■■■■■■■■■■■■■■■■■■■]  AERONAUTICS & SPACE TECHNOLOGY
-[■■■■■■■■■■■■■■■□□□]  COMPUTER SCIENCE FOUNDATIONS
-[■■■■■■■■■■■■■■□□□]  DATA ANALYTICS & VISUALIZATION
-[■■■■■■■■■■■■■□□□□□]  SYSTEMS-ORIENTED BUILDING
-```
-
-I am currently focused on strengthening the fundamentals behind reliable technical work.
-
-</p> <p align="center">
-</p>
