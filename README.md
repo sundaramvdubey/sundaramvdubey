@@ -15,7 +15,7 @@
 │    IIT Madras & MGKVP                                                        │
 │    AI-driven programming, data analytics, and technical learning             │
 │    Building systems. Studying models. Following the signal.                  │
-│     IIT Mandi 2026 summer                                                    │
+│    IIT Mandi 2026 summer                                                     │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
