@@ -1,7 +1,7 @@
 <p align="center">
 <img src="./assets/profile-banner.png" alt="Personal profile banner" width="100%" />
 </p> <p align="center">
-  <strong>ENGINEERING THE INTERSECTION OF FLIGHT, CODE, AND DATA.</strong>
+  <strong>Engineering some stuff ig ;)</strong>
 </p> <p align="center">
   <a href="https://github.com/sundaramvdubey"><img src="https://img.shields.io/badge/GitHub-sundaramvdubey-0b1f33?style=for-the-badge&logo=github&logoColor=d7f3ff" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/sundaramvdubey">
@@ -11,10 +11,12 @@
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │  FLIGHT PLAN // SUNDARAM V. DUBEY                                            │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│  VECTOR  :  Aeronautics & Space Technology + Computer Science                │
-│  ALTITUDE:  IIT Madras & MGKVP                                               │
-│  RADAR   :  AI-driven programming, data analytics, and technical learning    │
-│  STATUS  :  Building systems. Studying models. Following the signal.         │
+│    Aeronautics & Space Technology + Computer Science                         │
+│    IIT Madras & MGKVP                                                        │
+│    AI-driven programming, data analytics, and technical learning             │
+│    Building systems. Studying models. Following the signal.                  │
+│     IIT Mandi 2026 summer                                                    │
+│                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -22,10 +24,9 @@
 
 I am, **18, a technology enthusiast** working with **aeronautics, space technology, programming, and data**. My academic path combines a **B.S. in Aeronautics and Space Technology at IIT Madras** with Bsc in Computer science from **MGKVP**, completed a AI-driven data analytics and programming through **IIT Mandi**'s Himshikhar program.
 
-I enjoy turning technical curiosity into structured experiments: writing software, exploring datasets, building visual explanations, and learning how complex systems behave. Outside the lab, I am an artist at heart and a reader of fictional worlds.
+I enjoy writing software, exploring datasets, building visual explanations, and learning how complex systems behave. Outside the lab, I am an artist at heart and a reader of fictional worlds. ( i fr im trust me gng )
 
-> **Operating principle:** Build with precision. Learn continuously. Keep the system observable.
-
+> **Operating principle:** Excell and larp when you can
 
 ## `02` // The Technical Stack
 
@@ -37,7 +38,7 @@ I enjoy turning technical curiosity into structured experiments: writing softwar
   <img src="https://skillicons.dev/icons?i=numpy,pandas,scipy,matplotlib,plotly" height="32" alt="NumPy, Pandas, SciPy, Matplotlib, Plotly"/>
 </p>
 
-`02.02` // Expanding Stack
+`02.02` // Expanding Stack ( on my way to learn ) 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=rust,pytorch,git,linux,docker,githubactions" height="32" alt="Rust, PyTorch, Git, Linux, Docker, GitHub Actions"/>
@@ -49,5 +50,5 @@ My preferred workflow is deliberately compact: **C and C++** for fundamentals an
 
 ### [Finsight](https://github.com/sundaramvdubey/Finsight)
 
-> **The UPI Growth Story** : a data-driven exploration of fintech strategy, SQL, and financial modelling designed to turn a large-scale payments question into decision-ready insight.
+> **The UPI Growth Story** : a data-driven exploration of fintech strategy, SQL, and financial modelling designed to turn a large-scale payments question into decision-ready insight. ( capstone project @ IIT Mandi)
 
