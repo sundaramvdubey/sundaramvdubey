@@ -35,7 +35,7 @@ I enjoy writing software, exploring datasets, building visual explanations, and 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,postgres" height="32" alt="C, C++, Python, PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,scipy,matplotlib,plotly" height="32" alt="NumPy, Pandas, SciPy, Matplotlib, Plotly"/>
+
 </p>
 
 `02.02` // Expanding Stack ( on my way to learn ) 
